@@ -1,0 +1,18 @@
+.odd-numbered {
+	background-color: rgb(230, 120, 120);
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.tf-font-size {
+	font-size: 24px;
+}
+
+#el-two {
+	color: rgb(0, 0, 200);
+	font-size: 36px;
+}
+
+#el-four {
+	background-color: rgb(0, 200, 0);
+	font-weight: 700;
+}
